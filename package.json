@@ -2,6 +2,9 @@
   "name": "chem-helper",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://waynemm14.github.io",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -34,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
