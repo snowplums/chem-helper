@@ -2,7 +2,7 @@
   "name": "chem-helper",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://waynemm14.github.io/chem-helper",
+  "homepage": "https://waynemm14.github.io/chem-helper/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
